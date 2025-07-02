@@ -57,7 +57,7 @@ See [Projects Page](projects.md) for details.
 
 ---
 
-## 📚 Certifications
+## 📚 Certifications and Courses
 
 - [Neural Networks and Deep Learning – Coursera](https://www.coursera.org/account/accomplishments/certificate/CGE4CGJRL83A)
 - [Ollama Course – Build AI Apps Locally](https://www.youtube.com/watch?v=GWB9ApTPTv4)
