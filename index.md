@@ -5,14 +5,18 @@ title: Nimish Tembhurne
 
 
 
-<div style="text-align: center; background: #f0f0f0; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem;">
-  <img src="assets/profile.jpg" alt="Nimish Tembhurne" width="160" style="border-radius: 10%;" />
-  <h2>Nimish Tembhurne</h2>
-  <p><strong>Data Scientist</strong> | <strong>LLM Architect</strong> | <strong>MLOps Engineer</strong></p>
-  <p>📍 Delhi • 📧 <a href="mailto:nimishtem99@gmail.com">nimishtem99@gmail.com</a></p>
-  <p><a href="https://github.com/nimish-tembhurne">GitHub</a> • <a href="https://linkedin.com/in/nimish-tembhurne">LinkedIn</a></p>
-</div>
+# 👋 Hello! I'm Nimish Tembhurne
 
+<img src="assets/profile.jpg" alt="Nimish Tembhurne" width="200" style="border-radius: 10%; display: block; margin: 0 auto;" />
+
+**Data Scientist** | **Generative AI Developer**
+
+📍 Delhi, India  
+📧 [nimishtem99@gmail.com](mailto:nimishtem99@gmail.com)  
+🔗 [GitHub](https://github.com/nimish-tembhurne) | [LinkedIn](https://linkedin.com/in/nimish-tembhurne)  
+📄 [Download Resume](assets/resume.pdf)
+
+---
 
 ## 🧠 Professional Summary
 
