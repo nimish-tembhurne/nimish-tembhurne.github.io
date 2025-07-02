@@ -21,7 +21,7 @@ Data Scientist with a proven track record of designing scalable AI/ML architectu
 
 ## 🎓 Education
 
-**B.Tech in Chemical Engineering (2017 - 2021), IIT Kanpur** 
+**B.Tech in Chemical Engineering, IIT Kanpur (2017 - 2021)** 
 
 ---
 
