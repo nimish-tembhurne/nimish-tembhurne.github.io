@@ -21,7 +21,8 @@ Data Scientist with a proven track record of designing scalable AI/ML architectu
 
 ## 🎓 Education
 
-**Indian Institute of Technology, Kanpur**  
+**Indian Institute of Technology, Kanpur** 
+
 B.Tech in Chemical Engineering (2017–2021)
 
 ---
