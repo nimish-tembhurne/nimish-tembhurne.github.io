@@ -3,11 +3,12 @@ layout: default
 title: Nimish Tembhurne
 ---
 
-# **Data Scientist** | **Generative AI Developer**
+# **Data Scientist**
 
 - 📍 Delhi, India  
 - 📧 [nimishtem99@gmail.com](mailto:nimishtem99@gmail.com)  
-- 🔗 [GitHub](https://github.com/nimish-tembhurne) | [LinkedIn](https://linkedin.com/in/nimish-tembhurne)  
+- <i class="fab fa-github"></i> [GitHub](https://github.com/nimish-tembhurne)
+- <i class="fab fa-linkedin-in"></i> [LinkedIn](https://linkedin.com/in/nimish-tembhurne)  
 - 📄 [Download Resume](assets/resume.pdf)
 
 ---
@@ -40,7 +41,7 @@ B.Tech in Chemical Engineering (2017–2021)
 ## 💼 Experience
 
 ### **Moglix India Pvt. Ltd.** (Nov 2021 – Jan 2025)  
-**Data Scientist / Analyst** – Noida, Uttar Pradesh
+**Data Scientist** – Noida, Uttar Pradesh
 
 - Deployed Conversational AI Assistants (INR 1Cr+ monthly revenue)
 - Built NLP-powered BigQuery enterprise search engine
