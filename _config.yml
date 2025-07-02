@@ -1,0 +1,7 @@
+title: Nimish Tembhurne
+description: Data Scientist Portfolio and Blog
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
