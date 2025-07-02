@@ -3,17 +3,11 @@ layout: default
 title: Nimish Tembhurne
 ---
 
-
-
-# 👋 Hello! I'm Nimish Tembhurne
-
-<img src="assets/profile.jpg" alt="Nimish Tembhurne" width="200" style="border-radius: 10%; display: block; margin: 0 auto;" />
-
 **Data Scientist** | **Generative AI Developer**
 
-📍 Delhi, India  
-📧 [nimishtem99@gmail.com](mailto:nimishtem99@gmail.com)  
-🔗 [GitHub](https://github.com/nimish-tembhurne) | [LinkedIn](https://linkedin.com/in/nimish-tembhurne)  
+📍 Delhi, India  
+📧 [nimishtem99@gmail.com](mailto:nimishtem99@gmail.com)  
+🔗 [GitHub](https://github.com/nimish-tembhurne) | [LinkedIn](https://linkedin.com/in/nimish-tembhurne)  
 📄 [Download Resume](assets/resume.pdf)
 
 ---
@@ -26,7 +20,7 @@ Data Scientist with a proven track record of designing scalable AI/ML architectu
 
 ## 🎓 Education
 
-**Indian Institute of Technology, Kanpur**  
+**Indian Institute of Technology, Kanpur**  
 B.Tech in Chemical Engineering (2017–2021)
 
 ---
@@ -45,7 +39,7 @@ B.Tech in Chemical Engineering (2017–2021)
 
 ## 💼 Experience
 
-### **Moglix India Pvt. Ltd.** (Nov 2021 – Jan 2025)  
+### **Moglix India Pvt. Ltd.** (Nov 2021 – Jan 2025)  
 **Data Scientist / Analyst** – Noida, Uttar Pradesh
 
 - Deployed Conversational AI Assistants (INR 1Cr+ monthly revenue)
@@ -73,4 +67,3 @@ See [Projects Page](projects.md) for details.
 ## 📝 Blog
 
 Visit the [Blog](blog.md) to read my thoughts on MLOps, LLMs, and building production AI.
-

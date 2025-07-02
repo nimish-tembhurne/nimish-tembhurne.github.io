@@ -1,6 +1,8 @@
 title: Nimish Tembhurne
-description: Data Scientist Portfolio and Blog
+logo: assets/profile.jpg
+# description: Data Scientist | Generative AI Developer
 theme: jekyll-theme-minimal
+# show_downloads: true
 markdown: kramdown
 plugins:
   - jekyll-feed
