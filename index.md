@@ -21,9 +21,7 @@ Data Scientist with a proven track record of designing scalable AI/ML architectu
 
 ## 🎓 Education
 
-**Indian Institute of Technology, Kanpur** 
-
-B.Tech in Chemical Engineering (2017–2021)
+**B.Tech in Chemical Engineering (2017–2021) - IIT Kanpur** 
 
 ---
 
@@ -68,4 +66,4 @@ See [Projects Page](projects.md) for details.
 
 ## 📝 Blog
 
-Visit the [Blog](blog.md) to read my thoughts on MLOps, LLMs, and building production AI.
+Visit the [Blog](blog.md) to explore my personal log, technical insights on AI, ML, LLMs, and MLOps, as well as reflections on learning and building production systems.

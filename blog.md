@@ -5,13 +5,12 @@ title: Blog
 
 # 📝 Blog
 
-Welcome to my blog! I write about:
+Welcome to my blog! Here, I share:
 
-- RAG and Retrieval-Augmented Generation techniques
-- LangChain, Gemini, and Vector DBs
-- Kubernetes deployments for ML
-- Building enterprise-grade Conversational AI
-- MLOps pipelines and LLM applications
+- **Technical Insights:** Deep dives into AI, ML, LLMs, and MLOps, covering topics like RAG, LangChain, Gemini, Vector DBs, Kubernetes deployments, and building conversational AI.
+- **Learnings from Studies:** Key takeaways from courses, research papers, books, and documentation.
+- **Project Notes:** Experiences and lessons from side projects, coding hacks, and debugging challenges.
+- **Reflections:** Thoughts on productivity, continuous learning, and life in the world of technology.
 
 ## Recent Posts
 
