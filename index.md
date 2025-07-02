@@ -6,10 +6,8 @@ title: Nimish Tembhurne
 # **Data Scientist**
 
 - 📍 Delhi, India  
-- 📧 [nimishtem99@gmail.com](mailto:nimishtem99@gmail.com)  
 - 🔗 [GitHub](https://github.com/nimish-tembhurne)
 - 🔗 [LinkedIn](https://linkedin.com/in/nimish-tembhurne)  
-- 📄 [Download Resume](assets/resume.pdf)
 
 ---
 
