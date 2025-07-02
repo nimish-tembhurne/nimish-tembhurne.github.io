@@ -3,7 +3,7 @@ layout: default
 title: Nimish Tembhurne
 ---
 
-**Data Scientist** | **Generative AI Developer**
+# **Data Scientist** | **Generative AI Developer**
 
 📍 Delhi, India  
 📧 [nimishtem99@gmail.com](mailto:nimishtem99@gmail.com)  
