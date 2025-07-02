@@ -7,8 +7,8 @@ title: Nimish Tembhurne
 
 - 📍 Delhi, India  
 - 📧 [nimishtem99@gmail.com](mailto:nimishtem99@gmail.com)  
-- <i class="fab fa-github"></i> [GitHub](https://github.com/nimish-tembhurne)
-- <i class="fab fa-linkedin-in"></i> [LinkedIn](https://linkedin.com/in/nimish-tembhurne)  
+- 🔗 [GitHub](https://github.com/nimish-tembhurne)
+- 🔗 [LinkedIn](https://linkedin.com/in/nimish-tembhurne)  
 - 📄 [Download Resume](assets/resume.pdf)
 
 ---
