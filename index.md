@@ -61,7 +61,3 @@ See [Projects Page](projects.md) for details.
 - [PyTorch for ML – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA)
 
 ---
-
-## 📝 Blog
-
-Visit the [Blog](blog.md) to explore my personal log, technical insights on AI, ML, LLMs, and MLOps, as well as reflections on learning and building production systems.
